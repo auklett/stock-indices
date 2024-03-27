@@ -4,9 +4,10 @@
 
 ## S&P 500 (Accuracy: 0.74)
 ##
-
-<img src="https://github.com/auklett/stock-indices/blob/main/S&P500_1.png" width=40%>
-<img src="https://github.com/auklett/stock-indices/blob/main/S&P500_2.png" width=40%><br />
+<p float="left">
+  <img src="https://github.com/auklett/stock-indices/blob/main/S&P500_1.png" width=40%>
+  <img src="https://github.com/auklett/stock-indices/blob/main/S&P500_2.png" width=40%><br />
+</p>
 
 ## Dow Jones (Accuracy: 0.59)
 ##
