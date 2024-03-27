@@ -5,7 +5,7 @@
 ## S&P 500 (Accuracy: 0.74)
 ##
 <p float="left">
-  <img src="https://github.com/auklett/stock-indices/blob/main/S&P500_1.png" width=40%><br />
+  <img src="https://github.com/auklett/stock-indices/blob/main/S&P500_1.png" width=40%>
   <img src="https://github.com/auklett/stock-indices/blob/main/S&P500_2.png" width=40%><br />
 </p>
 
